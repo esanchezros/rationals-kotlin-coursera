@@ -1,8 +1,8 @@
-package rationals
+package io.allune.rationals
 
+import io.allune.rationals.TestRationals.ComparisonOperation.*
 import org.junit.Assert
 import org.junit.Test
-import rationals.TestRationals.ComparisonOperation.*
 
 class TestRationals {
 

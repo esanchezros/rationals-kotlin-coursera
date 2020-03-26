@@ -1,4 +1,0 @@
-rootProject.name = 'rationals-kotlin-coursera'
-
-
-enableFeaturePreview('GRADLE_METADATA')

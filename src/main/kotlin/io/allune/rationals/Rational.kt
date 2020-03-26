@@ -1,4 +1,4 @@
-package rationals
+package io.allune.rationals
 
 import java.math.BigInteger
 import java.math.BigInteger.ZERO
